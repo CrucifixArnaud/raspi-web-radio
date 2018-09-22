@@ -1,4 +1,6 @@
-# Web Radio
+# Raspi Web Radio
+
+A small raspberry web radio controller for mpd (https://www.musicpd.org/).
 
 ## Edit radio list
 
